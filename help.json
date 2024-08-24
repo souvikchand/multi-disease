@@ -1,0 +1,7 @@
+{"Diabetes":{
+    "Hypertension": "a medical condition in which the blood pressure in the arteries is persistently elevated",
+    "Body Mass Index": "a measure of body fat based on weight and height. Higher BMI values are linked to a higher risk of diabetes. The range of BMI in the dataset is from 10.16 to 71.55. BMI less than 18.5 is underweight, 18.5-24.9 is normal, 25-29.9 is overweight, and 30 or more is obese",
+    "Hemoglobin A1c": "person's average blood sugar level over the past 2-3 months",
+    "Blood glucose": "amount of glucose in the bloodstream at a given time"
+} 
+}
