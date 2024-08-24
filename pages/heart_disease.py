@@ -27,7 +27,7 @@ with col3:
     exang=st.selectbox('exercise induced angina',['yes','no'])
     ca= st.selectbox('number of major vessels',[0,1,2,3,4])
 
-model= pickle.load(open(r'C:\Users\Souvik Chand\Downloads\corrected_heart_disease.pkl','rb'))
+model= pickle.load(open(r'corrected_heart_disease.pkl','rb'))
 
 #13 functions:
 def age_get(value):
