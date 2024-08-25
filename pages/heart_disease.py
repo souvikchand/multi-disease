@@ -1,6 +1,7 @@
 import streamlit as st
 import pickle
 import numpy as np
+import sklearn
 
 #st.Page(title='heart disease',)
 st.title('heart checker :sparkling_heart:')
